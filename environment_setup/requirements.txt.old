@@ -1,7 +1,5 @@
-azureml-core
-# --upgrade azureml-core
 azure-cli
-# azureml-sdk
+azureml-sdk[cli]
 scikit-learn
 joblib
 numpy
